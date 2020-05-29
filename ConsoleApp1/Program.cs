@@ -5,7 +5,7 @@ namespace SimpleAlgorithm
     class Program
     {
         private static void Main()
-        {
+        { //
             int[] m = { 357, 260, 198, 493, 853, -232, -15 };
 
             var man = m[0];
